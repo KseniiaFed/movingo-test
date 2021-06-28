@@ -1,5 +1,7 @@
 import Navbar from './components/header'
 import Hero from './components/hero'
+import Featured from './components/featured'
+import HowMuchCanISave from './components/HoMuchCanISave'
 import './App.css';
 
 function App() {
@@ -7,20 +9,8 @@ function App() {
     <div className="App">
       <Navbar />
       <Hero />
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
+      <Featured />
+      <HowMuchCanISave />
     </div>
   );
 }

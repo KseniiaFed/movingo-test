@@ -1,38 +1,7 @@
-$bgteal: #0fcbd7;
-$bgteal-darker: #0e959e;
 
-#navbar {
-  padding-top: 4px;
-  display: flex;
-  position: fixed;
-  flex-direction: row;
-  width: 100%;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  color: white;
+.btn {
+  @apply py-2 px-4 rounded items-center;
 }
-
-.header_logo {
-  color:white
-}
-
-.nav_links {
-  font-style: normal;
-  color: white;
-}
-
-.button_teal {
-  background-color: $bgteal;
-  padding: 10px 20px;
-  border-radius: 5px;
-  border-width: 0;
-  color: white;
-  font-weight: bold;
-}
-.button_teal:hover {
-  background-color: $bgteal-darker;
-}
-.button_teal:active {
-  background-color: $bgteal;
+.btn-teal{
+  @apply bg-teal hover:bg-teal-dark text-white text-xs font-semibold;
 }

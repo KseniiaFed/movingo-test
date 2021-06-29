@@ -1,0 +1,29 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 163" width="95" height="82">
+	<title>Digital Marketing</title>
+	<style>
+		tspan { white-space:pre }
+		.shp24 { fill: none;stroke: #0fccd8;stroke-linecap:round;stroke-width: 3 }
+		.shp25 { fill: #0fccd8 }
+	</style>
+	<g id="Digital Marketing">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="shp24" d="M173.67 111.47L16.96 111.47C12.3 111.47 8.53 107.7 8.53 103.04L8.53 16.91L182.09 16.91L182.09 103.04C182.09 107.7 178.32 111.47 173.67 111.47Z" />
+			<path id="&lt;Path&gt;" class="shp24" d="M84.61 111.47L84.61 161.42" />
+			<path id="&lt;Path&gt;" class="shp24" d="M106.01 111.47L106.01 161.42" />
+			<path id="&lt;Path&gt;" class="shp24" d="M8.53 123.13L182.09 123.13" />
+			<path id="&lt;Path&gt;" class="shp24" d="M87.79 10.94L79.3 10.94" />
+			<path id="&lt;Path&gt;" class="shp24" d="M111.32 10.94L102.83 10.94" />
+			<path id="&lt;Path&gt;" class="shp24" d="M64.26 10.94L2.31 10.94L2.31 16.91L188.31 16.91L188.31 10.94L126.55 10.94" />
+			<path id="&lt;Path&gt;" class="shp24" d="M79.31 13.93L64.26 13.93L64.26 6.41L79.31 6.41L79.31 13.93Z" />
+			<path id="&lt;Path&gt;" class="shp24" d="M102.83 13.93L87.79 13.93L87.79 6.41L102.83 6.41L102.83 13.93Z" />
+			<path id="&lt;Path&gt;" class="shp24" d="M126.36 13.93L111.32 13.93L111.32 6.41L126.36 6.41L126.36 13.93Z" />
+			<path id="&lt;Path&gt;" class="shp24" d="M71.78 6.41L71.78 1.78" />
+			<path id="&lt;Path&gt;" class="shp24" d="M118.84 6.41L118.84 1.78" />
+			<path id="&lt;Path&gt;" class="shp24" d="M95.31 6.41L95.31 1.78" />
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="shp25" d="M90.95 75.24L89.56 71.3L81.48 71.3L80.09 75.24L76.79 75.24L83.7 55.91L87.37 55.91L94.28 75.24L90.95 75.24ZM82.34 68.83L88.7 68.83L85.54 59.75L82.34 68.83Z" />
+				<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="shp25" d="M103.59 55.94C106.7 55.94 109.18 56.82 111.04 58.57C112.91 60.31 113.83 62.68 113.83 65.65C113.83 68.62 112.91 70.96 111.04 72.67C109.18 74.39 106.7 75.24 103.59 75.24L97.28 75.24L97.28 55.94L103.59 55.94ZM100.45 72.83L103.59 72.83C105.83 72.83 107.55 72.19 108.77 70.91C109.98 69.63 110.59 67.88 110.59 65.65C110.59 63.42 109.98 61.67 108.77 60.4C107.55 59.13 105.83 58.5 103.59 58.5L100.45 58.5L100.45 72.83Z" />
+			</g>
+		</g>
+	</g>
+</svg>

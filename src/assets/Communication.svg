@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 186 116" width="93" height="58">
+	<title>Communication</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #0fccd8;stroke-linecap:round;stroke-width: 3 }
+	</style>
+	<g id="Communication">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="shp0" d="M157.31 91.71L28.47 76.73L28.47 16.8L157.31 1.82L157.31 91.71Z" />
+			<path id="&lt;Path&gt;" class="shp0" d="M14.46 76.35L28.47 76.35L28.47 16.8L14.46 16.8L14.46 76.35Z" />
+			<path id="&lt;Path&gt;" class="shp0" d="M14.46 59.12C7.63 59.12 2.1 53.59 2.1 46.76C2.1 39.94 7.63 34.4 14.46 34.4" />
+			<path id="&lt;Path&gt;" class="shp0" d="M28.47 76.35L28.47 97.45C28.47 106.69 35.96 114.18 45.2 114.18L45.2 114.18" />
+			<path id="&lt;Path&gt;" class="shp0" d="M183.9 46.58L166.3 46.58" />
+			<path id="&lt;Path&gt;" class="shp0" d="M180.77 64.74L166.3 54.72" />
+			<path id="&lt;Path&gt;" class="shp0" d="M180.77 28.42L166.3 38.44" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,29 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 592 592" width="150" height="150">
+	<title>Local Property Exper</title>
+	<style>
+		tspan { white-space:pre }
+		.shp18 { fill: none;stroke: #0fccd8;stroke-linecap:round;stroke-width: 3 }
+		.shp19 { fill: none;stroke: #0fccd8;stroke-linecap:round;stroke-linejoin:round;stroke-width: 3 }
+		.shp20 { fill: none;stroke: #12d66f;stroke-linecap:round;stroke-width: 12 }
+		.shp21 { opacity: 0.102;fill: none;stroke: #12d66f;stroke-linecap:round;stroke-width: 60 }
+	</style>
+	<g id="Local Property Exper">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp18" d="M337.61 266.3L337.61 252.7L337.61 241.55C337.61 220.37 318.98 203.2 296 203.2C273.02 203.2 254.39 220.37 254.39 241.55L254.39 252.7L254.39 266.3" />
+				<path id="&lt;Path&gt;" class="shp19" d="M260.89 261.94L260.89 273.89L260.89 283.7C260.89 302.32 276.61 317.42 296 317.42C315.39 317.42 331.11 302.32 331.11 283.7L331.11 273.89L331.11 261.94C301.96 261.4 285.22 254.52 280.89 241.3C275.07 254.49 268.4 261.37 260.89 261.94Z" />
+				<path id="&lt;Path&gt;" class="shp18" d="M296 283.73L296 272.72" />
+				<path id="&lt;Path&gt;" class="shp18" d="M296 283.73L300.55 283.73" />
+				<path id="&lt;Path&gt;" class="shp18" d="M260.61 283.72C255.08 283.72 250.6 279.23 250.6 273.7C250.6 268.17 255.08 263.69 260.61 263.69" />
+				<path id="&lt;Path&gt;" class="shp18" d="M331.11 263.69C336.64 263.69 341.13 268.17 341.13 273.7C341.13 279.23 336.64 283.72 331.11 283.72" />
+				<path id="&lt;Path&gt;" class="shp19" d="M281 314.61L281 327.74" />
+				<path id="&lt;Path&gt;" class="shp19" d="M311 314.61L311 327.74" />
+				<path id="&lt;Path&gt;" class="shp19" d="M302 388.8L237.11 388.8C235.02 366.01 240.51 355.9 246.34 350.95C250.75 347.2 255.74 346.09 266.87 338.45C272.91 334.31 277.56 330.43 280.61 327.74" />
+				<path id="&lt;Path&gt;" class="shp19" d="M290 388.8L354.89 388.8C356.98 366.01 351.49 355.9 345.66 350.95C341.25 347.2 336.26 346.09 325.13 338.45C319.09 334.31 314.44 330.43 311.39 327.74" />
+				<path id="&lt;Path&gt;" class="shp19" d="M264.24 341.15C273.05 343.54 282.27 345.89 296.92 345.83C311.04 345.77 319.85 343.49 328.47 341.15L296.1 373.52L264.24 341.15Z" />
+			</g>
+			<path id="&lt;Path&gt;" class="shp20" d="M527 296C527 423.58 423.58 527 296 527C168.42 527 65 423.58 65 296C65 168.42 168.42 65 296 65C423.58 65 527 168.42 527 296Z" />
+			<path id="&lt;Path&gt;" class="shp21" d="M561.35 296C561.35 442.55 442.55 561.35 296 561.35C149.45 561.35 30.65 442.55 30.65 296C30.65 149.45 149.45 30.65 296 30.65C442.55 30.65 561.35 149.45 561.35 296Z" />
+		</g>
+	</g>
+</svg>

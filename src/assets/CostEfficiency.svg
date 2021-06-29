@@ -1,0 +1,17 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 130" width="65" height="65">
+	<title>Cost Efficiency</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #0fccd8;stroke-linecap:round;stroke-width: 3 }
+	</style>
+	<g id="Cost Efficiency">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp0" d="M86.57 80.16C86.57 84.99 82.66 88.91 77.83 88.91C73 88.91 69.09 84.99 69.09 80.16C69.09 75.34 73 71.42 77.83 71.42C82.66 71.42 86.57 75.34 86.57 80.16Z" />
+				<path id="&lt;Path&gt;" class="shp0" d="M60.89 49.83C60.89 54.66 56.98 58.58 52.15 58.58C47.32 58.58 43.41 54.66 43.41 49.83C43.41 45.01 47.32 41.09 52.15 41.09C56.98 41.09 60.89 45.01 60.89 49.83Z" />
+				<path id="&lt;Path&gt;" class="shp0" d="M75.57 43.56L54.41 86.44" />
+			</g>
+			<path id="&lt;Path&gt;" class="shp0" d="M127.99 65C127.99 99.79 99.78 128 64.99 128C30.19 128 1.99 99.79 1.99 65C1.99 30.21 30.19 2 64.99 2C99.78 2 127.99 30.21 127.99 65Z" />
+		</g>
+	</g>
+</svg>

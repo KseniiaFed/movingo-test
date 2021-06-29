@@ -1,0 +1,13 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 178" width="92" height="89">
+	<g id="Calendar">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp0" d="M169.62 176L13.62 176C7 176 1.62 170.63 1.62 164L1.62 26C1.62 19.37 7 14 13.62 14L169.62 14C176.25 14 181.62 19.37 181.62 26L181.62 164C181.62 170.63 176.25 176 169.62 176Z" />
+				<path id="&lt;Path&gt;" class="shp1" d="M2.37 50L182.37 50" />
+			</g>
+			<path id="&lt;Path&gt;" class="shp2" d="M42.87 2L42.87 26" />
+			<path id="&lt;Path&gt;" class="shp2" d="M141.87 2L141.87 26" />
+			<path id="&lt;Path&gt;" class="shp2" d="M83 143.21L110.21 89L83 89" />
+		</g>
+	</g>
+</svg>

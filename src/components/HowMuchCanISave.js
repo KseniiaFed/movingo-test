@@ -1,7 +1,7 @@
 const HowMuchCanISave = () => {
   return (
     <div className="flex flex-col p-6 bg-gray-100 items-center">
-      <span className="font-bold text-xl">How Much Can I Save?</span>
+      <span className="font-semibold text-xl">How Much Can I Save?</span>
       <div>slider</div>
       <div className="flex flex-col p-2 justify-center items-center text-white bg-teal w-48 rounded">
         <span className="text-xs">You Save</span>

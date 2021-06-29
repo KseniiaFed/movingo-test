@@ -1,7 +1,12 @@
 import Navbar from './components/header'
 import Hero from './components/hero'
-import Featured from './components/featured'
-import HowMuchCanISave from './components/HoMuchCanISave'
+import SellAdExp from './components/SellAdExp.js'
+import HowMuchCanISave from './components/HowMuchCanISave'
+import HowThePerfectSaleWorks from './components/HowThePerfectSaleWorks'
+import HowDoesMoovingoMaximise from './components/HowDoesMoovingoMaximise'
+import MoovingoVsTrad from './components/MoovingoVsTrad'
+import Featured from "./components/Featured"
+import Footer from "./components/footer"
 import './App.css';
 
 function App() {
@@ -9,8 +14,13 @@ function App() {
     <div className="App">
       <Navbar />
       <Hero />
-      <Featured />
+      <SellAdExp />
       <HowMuchCanISave />
+      <HowThePerfectSaleWorks />
+      <HowDoesMoovingoMaximise />
+      <MoovingoVsTrad />
+      <Featured />
+      <Footer />
     </div>
   );
 }

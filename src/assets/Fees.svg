@@ -1,0 +1,33 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 180" width="100" height="90">
+	<title>Fees</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #0fccd8;stroke-linecap:round;stroke-width: 3 }
+	</style>
+	<g id="Fees">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp0" d="M53.79 132.54L53.79 160.96L53.79 171.49C53.79 175.06 50.9 177.95 47.33 177.95L32.45 177.95C30.21 177.95 28.09 176.78 26.92 174.87C-7.82 118.31 -1.15 80.68 14.35 57.13C28.27 35.98 52.48 23.89 77.8 23.89L119.55 23.89" />
+				<path id="&lt;Path&gt;" class="shp0" d="M105.14 161.28L53.79 161.28" />
+				<path id="&lt;Path&gt;" class="shp0" d="" />
+				<path id="&lt;Path&gt;" class="shp0" d="M104.92 151.56L104.92 171.5C104.92 175.06 107.81 177.95 111.37 177.95L130.21 177.95C133.2 177.95 135.8 175.89 136.49 172.98L146.55 130.28" />
+				<path id="&lt;Path&gt;" class="shp0" d="M119.03 23.89C158.41 23.89 190.33 55.42 190.33 94.32C190.33 126.34 168.71 153.37 139.09 161.93" />
+				<path id="&lt;Path&gt;" class="shp0" d="M188.04 73.57L194.52 73.57C196.58 73.57 198.27 75.26 198.27 77.32L198.27 111.86C198.27 113.93 196.58 115.62 194.52 115.62L188.04 115.62" />
+				<path id="&lt;Path&gt;" class="shp0" d="M122.87 38.18L122.87 5.63C139.92 2.87 148.45 13.72 148.45 38.18" />
+				<path id="&lt;Path&gt;" class="shp0" d="M105.14 144.02L105.14 130.28" />
+				<path id="&lt;Path&gt;" class="shp0" d="M146.55 81.56C148.01 80.48 149.47 79.41 150.92 78.34C155.74 74.79 162.35 74.98 166.96 78.8C168.06 79.72 169.17 80.64 170.28 81.56" />
+				<path id="&lt;Path&gt;" class="shp0" d="M64.49 24.04C64.49 11.89 74.33 2.05 86.48 2.05C98.62 2.05 108.46 11.89 108.46 24.04" />
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="shp0" d="M78.29 90C78.29 79.96 85.02 71.83 93.32 71.83C95.39 71.83 97.37 72.33 99.17 73.25" />
+					<path id="&lt;Path&gt;" class="shp0" d="M78.29 90C78.29 100.04 85.02 108.17 93.32 108.17C95.39 108.17 97.37 107.67 99.17 106.75" />
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="shp0" d="M73.78 87.85L88.73 87.85" />
+					<path id="&lt;Path&gt;" class="shp0" d="M73.78 92.15L88.73 92.15" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

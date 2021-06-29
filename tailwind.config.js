@@ -12,11 +12,23 @@ module.exports = {
         DEFAULT: "#0fcbd7",
         dark: "#0e959e",
       },
+      green: {
+        DEFAULT: "#12d66f",
+      },
+      brown: {
+        DEFAULT: "#d67d12",
+      },
+      blue: {
+        DEFAULT: "#128bd6",
+      },
     },
     extend: {
       backgroundImage: (theme) => ({
         "hero-image": "url('/src/assets/Background.png')",
       }),
+      inset: {
+        46: "11.25rem",
+      },
     },
     borderWidth: {
       DEFAULT: "1px",

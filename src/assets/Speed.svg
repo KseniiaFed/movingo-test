@@ -1,0 +1,51 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 140" width="108" height="70">
+	<title>Speed</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #0fccd8;stroke-linecap:round;stroke-width: 3 }
+		.shp1 { fill: #0fccd8;stroke: #0fccd8;stroke-linecap:round;stroke-width: 3 }
+	</style>
+	<g id="Speed">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="shp0" d="" />
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp0" d="M94.2 137.69C75.92 123.97 64.1 102.12 64.1 77.51C64.1 35.97 97.77 2.3 139.31 2.3C180.84 2.3 214.51 35.97 214.51 77.51C214.51 102.12 202.69 123.98 184.41 137.7" />
+				<path id="&lt;Path&gt;" class="shp0" d="M139.31 9.82L139.31 27.91" />
+				<path id="&lt;Path&gt;" class="shp0" d="M207 77.51L188.91 77.51" />
+				<path id="&lt;Path&gt;" class="shp0" d="M186.92 29.02L174.13 41.82" />
+				<path id="&lt;Path&gt;" class="shp0" d="M102.74 41.82L89.95 29.02" />
+				<path id="&lt;Path&gt;" class="shp0" d="M169.04 107.68L139.31 77.95" />
+				<path id="&lt;Path&gt;" class="shp0" d="M102.74 41.82L89.95 29.02" />
+				<path id="&lt;Path&gt;" class="shp0" d="M69.87 77.51L87.96 77.51" />
+				<path id="&lt;Path&gt;" class="shp0" d="M89.95 125.99L102.74 113.2" />
+				<path id="&lt;Path&gt;" class="shp0" d="M174.13 113.2L186.92 125.99" />
+				<path id="&lt;Path&gt;" class="shp0" d="M164.46 14.66L157.74 31.46" />
+				<path id="&lt;Path&gt;" class="shp0" d="M202.15 102.66L185.36 95.94" />
+				<path id="&lt;Path&gt;" class="shp0" d="M91.63 58.43L74.84 51.71" />
+				<path id="&lt;Path&gt;" class="shp0" d="M201.52 50.18L184.89 57.31" />
+				<path id="&lt;Path&gt;" class="shp0" d="M118.62 30.78L111.5 14.16" />
+				<path id="&lt;Path&gt;" class="shp0" d="M75.47 104.18L92.1 97.06" />
+				<path id="&lt;Path&gt;" class="shp1" d="M142.59 77.95C142.59 79.52 141.32 80.79 139.75 80.79C138.17 80.79 136.9 79.52 136.9 77.95C136.9 76.38 138.17 75.1 139.75 75.1C141.32 75.1 142.59 76.38 142.59 77.95Z" />
+				<path id="&lt;Path&gt;" class="shp0" d="M94.21 137.7L184.41 137.7" />
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp0" d="M80 123.34C77.11 129 72.95 133.91 67.9 137.7" />
+				<path id="&lt;Path&gt;" class="shp0" d="M18.1 137.69C8.01 130.12 1.49 118.06 1.49 104.47C1.49 81.54 20.07 62.95 43.01 62.95C50.91 62.95 58.3 65.16 64.59 68.99" />
+				<path id="&lt;Path&gt;" class="shp0" d="M43.01 67.1L43.01 77.08" />
+				<path id="&lt;Path&gt;" class="shp0" d="M22.82 84.76L15.76 77.7" />
+				<path id="&lt;Path&gt;" class="shp0" d="M33.72 83.43L43.01 104.71" />
+				<path id="&lt;Path&gt;" class="shp0" d="M64.1 82.89L62.23 84.76" />
+				<path id="&lt;Path&gt;" class="shp0" d="M4.67 104.47L14.65 104.47" />
+				<path id="&lt;Path&gt;" class="shp0" d="M15.76 131.24L22.82 124.17" />
+				<path id="&lt;Path&gt;" class="shp0" d="M62.23 124.17L69.29 131.24" />
+				<path id="&lt;Path&gt;" class="shp0" d="M56.89 69.77L53.18 79.04" />
+				<path id="&lt;Path&gt;" class="shp0" d="M16.68 93.93L7.41 90.22" />
+				<path id="&lt;Path&gt;" class="shp0" d="M31.58 78.67L27.65 69.49" />
+				<path id="&lt;Path&gt;" class="shp0" d="M68.43 114.64L75.89 117.63" />
+				<path id="&lt;Path&gt;" class="shp0" d="M7.76 119.19L16.94 115.26" />
+				<path id="&lt;Path&gt;" class="shp1" d="M44.82 104.71C44.82 105.58 44.11 106.28 43.25 106.28C42.38 106.28 41.68 105.58 41.68 104.71C41.68 103.84 42.38 103.14 43.25 103.14C44.11 103.14 44.82 103.84 44.82 104.71Z" />
+				<path id="&lt;Path&gt;" class="shp0" d="M18.11 137.7L67.9 137.7" />
+			</g>
+		</g>
+	</g>
+</svg>

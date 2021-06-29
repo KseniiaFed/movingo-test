@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom'
-import MoovingoIcon from '../assets/Moovingo-icon.svg'
 import './header.scss'
 
 const Navbar = () => {

@@ -5,3 +5,7 @@
 .btn-teal{
   @apply bg-teal hover:bg-teal-dark text-white text-xs font-semibold;
 }
+
+h2 {
+  @apply font-semibold tracking-wide text-xl mt-6 text-gray-800 antialiased;
+}

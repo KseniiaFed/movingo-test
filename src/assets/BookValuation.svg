@@ -1,0 +1,25 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195 191" width="60" height="50">
+	<title>Book Valuation</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #0fccd8;stroke-linecap:round;stroke-width: 3 }
+		.shp1 { fill: none;stroke: #0fccd8;stroke-width: 3 }
+		.shp2 { fill: none;stroke: #0fccd8;stroke-linecap:round;stroke-linejoin:round;stroke-width: 3 }
+	</style>
+	<g id="Book Valuation">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="shp0" d="M130.38 175.99L14.13 175.99C7.5 175.99 2.13 170.61 2.13 163.99L2.13 25.99C2.13 19.36 7.5 13.99 14.13 13.99L170.13 13.99C176.75 13.99 182.13 19.36 182.13 25.99L182.13 126.01" />
+					<path id="&lt;Path&gt;" class="shp1" d="M2.88 49.99L182.88 49.99" />
+				</g>
+				<path id="&lt;Path&gt;" class="shp2" d="M43.37 1.99L43.37 25.99" />
+				<path id="&lt;Path&gt;" class="shp2" d="M142.37 1.99L142.37 25.99" />
+				<path id="&lt;Path&gt;" class="shp2" d="M83.5 143.2L110.71 88.99L83.5 88.99" />
+			</g>
+			<path id="&lt;Path&gt;" class="shp0" d="M193.37 163.51C193.37 177.6 181.96 189.01 167.87 189.01C153.79 189.01 142.37 177.6 142.37 163.51C142.37 149.43 153.79 138.01 167.87 138.01C181.96 138.01 193.37 149.43 193.37 163.51Z" />
+			<path id="&lt;Path&gt;" class="shp0" d="M167.87 163.51L167.87 149.26" />
+			<path id="&lt;Path&gt;" class="shp0" d="M167.87 163.51L182.13 163.51" />
+		</g>
+	</g>
+</svg>

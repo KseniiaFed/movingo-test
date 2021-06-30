@@ -21,10 +21,14 @@ module.exports = {
       blue: {
         DEFAULT: "#128bd6",
       },
+      footer: {
+        DEFAULT: "#3d3d3d",
+      },
     },
     extend: {
-      backgroundImage: (theme) => ({
-        "hero-image": "url('/src/assets/Background.png')",
+      backgroundImage: theme => ({
+        'hero-image': "url('/src/assets/Background.png')",
+        'shutterstock': "url('/src/assets/Shutterstock.png')",
       }),
       inset: {
         46: "11.25rem",

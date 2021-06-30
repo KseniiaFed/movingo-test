@@ -2,37 +2,49 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.btn {
+  @apply py-2 px-8 rounded items-center;
+}
+.btn-teal{
+  @apply bg-teal hover:bg-teal-dark text-white text-xs font-semibold;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+  @apply text-3xl text-center tracking-wider font-medium;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h2 {
+  @apply font-semibold tracking-wide text-xl text-gray-800 antialiased;
 }
 
-.App-link {
-  color: #61dafb;
+.small-center {
+  @apply text-center text-xs text-gray-500;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.text-small {
+  @apply text-xs text-gray-500;
+}
+
+.grid__cell {
+  @apply flex flex-col items-center sm:items-start space-y-3 sm:space-y-0 sm:flex-row max-w-xl;
+}
+
+.grid__cell--text {
+  @apply flex flex-col text-center sm:text-left items-center sm:items-start sm:ml-4;
+}
+
+.grid__cell--title {
+  @apply flex flex-row font-semibold text-sm;
+}
+
+.moovtrad-compare__cell {
+  @apply flex flex-col space-y-3 sm:space-y-0 sm:flex-row justify-center items-center p-8;
+}
+
+.moovtrad__mobile-title {
+  @apply text-sm font-medium tracking-wide sm:hidden;
+}
+
+.moovtrad__text {
+  @apply small-center sm:w-52 lg:w-full max-w-xs;
 }
